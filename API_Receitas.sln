@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Receitas", "API_Receitas\API_Receitas.csproj", "{562C1FBB-87BB-493D-9DBF-9C7D8EA65F33}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1FF57754-E99D-4D9C-B4B5-18A2B33AF749} = {1FF57754-E99D-4D9C-B4B5-18A2B33AF749}
+		{7E570867-A49D-414D-8288-9BB70F2FD394} = {7E570867-A49D-414D-8288-9BB70F2FD394}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_Receitas_Domain", "API_Receitas_Domain\API_Receitas_Domain.csproj", "{1FF57754-E99D-4D9C-B4B5-18A2B33AF749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Receitas_Infra", "API_Receitas_Infra\API_Receitas_Infra.csproj", "{7E570867-A49D-414D-8288-9BB70F2FD394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562C1FBB-87BB-493D-9DBF-9C7D8EA65F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562C1FBB-87BB-493D-9DBF-9C7D8EA65F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562C1FBB-87BB-493D-9DBF-9C7D8EA65F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562C1FBB-87BB-493D-9DBF-9C7D8EA65F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF57754-E99D-4D9C-B4B5-18A2B33AF749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF57754-E99D-4D9C-B4B5-18A2B33AF749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF57754-E99D-4D9C-B4B5-18A2B33AF749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF57754-E99D-4D9C-B4B5-18A2B33AF749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E570867-A49D-414D-8288-9BB70F2FD394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E570867-A49D-414D-8288-9BB70F2FD394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E570867-A49D-414D-8288-9BB70F2FD394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E570867-A49D-414D-8288-9BB70F2FD394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567C4DC7-A951-4727-B642-3196972B5A2F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.AssemblyInfoInputs.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.AssemblyInfo.cs
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.csproj.CoreCompileInputs.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\bin\Debug\netcoreapp3.1\API_Receitas_Domain.deps.json
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\bin\Debug\netcoreapp3.1\API_Receitas_Domain.dll
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\bin\Debug\netcoreapp3.1\API_Receitas_Domain.pdb
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\staticwebassets\API_Receitas_Domain.StaticWebAssets.Manifest.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\staticwebassets\API_Receitas_Domain.StaticWebAssets.xml
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\scopedcss\bundle\API_Receitas_Domain.styles.css
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.RazorTargetAssemblyInfo.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.dll
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.pdb
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Domain\obj\Debug\netcoreapp3.1\API_Receitas_Domain.csprojAssemblyReference.cache

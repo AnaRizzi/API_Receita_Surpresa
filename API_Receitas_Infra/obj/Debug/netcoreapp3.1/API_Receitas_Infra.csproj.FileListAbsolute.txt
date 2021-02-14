@@ -1,0 +1,16 @@
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.AssemblyInfoInputs.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.AssemblyInfo.cs
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.csproj.CoreCompileInputs.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\bin\Debug\netcoreapp3.1\API_Receitas_Infra.deps.json
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\bin\Debug\netcoreapp3.1\API_Receitas_Infra.dll
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\bin\Debug\netcoreapp3.1\API_Receitas_Infra.pdb
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\staticwebassets\API_Receitas_Infra.StaticWebAssets.Manifest.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\staticwebassets\API_Receitas_Infra.StaticWebAssets.xml
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\scopedcss\bundle\API_Receitas_Infra.styles.css
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.RazorTargetAssemblyInfo.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.dll
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.pdb
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\bin\Debug\netcoreapp3.1\API_Receitas_Domain.dll
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\bin\Debug\netcoreapp3.1\API_Receitas_Domain.pdb
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.csprojAssemblyReference.cache
+C:\Users\ana_a\Desktop\API_Receitas\API_Receitas_Infra\obj\Debug\netcoreapp3.1\API_Receitas_Infra.csproj.CopyComplete
