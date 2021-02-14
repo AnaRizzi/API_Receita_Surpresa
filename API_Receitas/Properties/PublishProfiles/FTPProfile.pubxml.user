@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUoVFdnJYJkmvpnDYw8N2YwAAAAACAAAAAAAQZgAAAAEAACAAAAChdgqmK15S9aTljguQSgxAYwjD/UR2RdKZ3/dPxu3b/AAAAAAOgAAAAAIAACAAAAA30nV7q/GsrIb7bOEF+/EVdfcH7VXlBdZ7mydqTegHWDAAAAAxmgH1REJBmBkTWGYo7zxqccBsmvySIzcxTcvcB8klxqSEI6+uy7qQModA+FRjy0ZAAAAAaNVkK3e8dY2s6mi24+4RyvWU5K/G7Jr/SiS6zYXwntqE2nn9apNxeyv1BfNL9/1YiwmcE+0enGKO1NY436I0Hw==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-cq1-019.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="API_Receitas.deps.json">
+      <publishTime>02/14/2021 16:25:04</publishTime>
+    </File>
+    <File Include="API_Receitas.dll">
+      <publishTime>02/14/2021 16:25:03</publishTime>
+    </File>
+    <File Include="API_Receitas.exe">
+      <publishTime>02/14/2021 16:25:03</publishTime>
+    </File>
+    <File Include="API_Receitas.pdb">
+      <publishTime>02/14/2021 16:25:03</publishTime>
+    </File>
+    <File Include="API_Receitas.runtimeconfig.json">
+      <publishTime>02/14/2021 12:49:03</publishTime>
+    </File>
+    <File Include="API_Receitas_Domain.dll">
+      <publishTime>02/14/2021 12:49:00</publishTime>
+    </File>
+    <File Include="API_Receitas_Domain.pdb">
+      <publishTime>02/14/2021 12:49:00</publishTime>
+    </File>
+    <File Include="API_Receitas_Infra.dll">
+      <publishTime>02/14/2021 12:49:01</publishTime>
+    </File>
+    <File Include="API_Receitas_Infra.pdb">
+      <publishTime>02/14/2021 12:49:01</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/08/2021 18:43:33</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/14/2021 12:43:08</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>03/18/2019 11:53:36</publishTime>
+    </File>
+    <File Include="Dapper.dll">
+      <publishTime>11/17/2020 09:58:48</publishTime>
+    </File>
+    <File Include="Google.Protobuf.dll">
+      <publishTime>02/16/2020 13:04:38</publishTime>
+    </File>
+    <File Include="K4os.Compression.LZ4.dll">
+      <publishTime>07/03/2019 22:59:30</publishTime>
+    </File>
+    <File Include="K4os.Compression.LZ4.Streams.dll">
+      <publishTime>07/03/2019 22:59:30</publishTime>
+    </File>
+    <File Include="K4os.Hash.xxHash.dll">
+      <publishTime>07/03/2019 20:39:02</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 20:14:12</publishTime>
+    </File>
+    <File Include="MySql.Data.dll">
+      <publishTime>12/09/2020 00:51:10</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="Renci.SshNet.dll">
+      <publishTime>06/07/2020 13:33:54</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>07/19/2017 10:01:34</publishTime>
+    </File>
+    <File Include="SshNet.Security.Cryptography.dll">
+      <publishTime>10/22/2017 20:53:28</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>02/07/2021 23:49:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>02/07/2021 23:49:24</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>02/07/2021 23:49:28</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/20/2017 18:09:04</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>07/19/2017 10:01:34</publishTime>
+    </File>
+    <File Include="Ubiety.Dns.Core.dll">
+      <publishTime>12/09/2020 00:49:56</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/14/2021 16:25:05</publishTime>
+    </File>
+    <File Include="Zstandard.Net.dll">
+      <publishTime>12/09/2020 00:49:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
